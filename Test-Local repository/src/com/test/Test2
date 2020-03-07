@@ -1,0 +1,5 @@
+class test2{
+   public static void main(Stringp[] args){
+       System.out.println("test2.main");
+   }
+}
